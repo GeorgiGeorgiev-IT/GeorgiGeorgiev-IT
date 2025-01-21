@@ -39,6 +39,7 @@
 ###
 
 <br clear="both">
+
 ![snake gif](https://github.com/GeorgiGeorgiev-IT/GeorgiGeorgiev-IT/blob/output/github-snake-dark.svg)
 
 ###
