@@ -43,3 +43,7 @@
 <img src="https://raw.githubusercontent.com/GeorgiGeorgiev-IT/GeorgiGeorgiev-IT/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+
+![snake gif](https://github.com/GeorgiGeorgiev-IT/GeorgiGeorgiev-IT/blob/output/github-snake-dark.svg)
