@@ -1,46 +1,29 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# 💫 About Me:
+# Здравейте! 👋 Аз съм Георги Георгиев<br><br>👨‍🎓 **За мен**<br>- На 21 години, студент по **Информатика и компютърни науки** в Икономическия университет - Варна.  <br>- Завършил паралелка по **Софтуерни и хардуерни науки**.  <br>- Страстен към програмирането и постоянното учене.  <br><br>💻 **Какво правя?**  <br>- Участвам в курсове по програмиране всеки месец, за да подобрявам своите умения.  <br>- Работя върху лични проекти през свободното си време и ги споделям тук, за да помогна на другите и да документирам своя напредък.  <br>- Изследвам нови технологии и се стремя да изграждам качествени софтуерни решения.  <br><br>🎯 **Моите интереси**  <br>- Занимавам се както с **Frontend**, така и с **Backend** разработка.  <br>- Автоматизация на процеси и разработка на софтуер с реална стойност.  <br>- Изследване на нови технологии и създаване на проекти, които съчетават различни аспекти на софтуерното инженерство.  <br><br>📫 **Как да се свържете с мен?**  <br>- Email: gmihaylovg@gmail.com<br>- Instagram: mihaylov960<br><br>⭐️ Не се колебай да разгледаш моите проекти и да оставиш звезда на тези, които харесаш!<br>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GeorgiGeorgiev-IT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GeorgiGeorgiev-IT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bggeorge1912#2348) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Георги Георгиев) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mihaylov960) 
 
-###
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GeorgiGeorgiev-IT&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GeorgiGeorgiev-IT&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgiGeorgiev-IT&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=GeorgiGeorgiev-IT&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-###
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=GeorgiGeorgiev-IT&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-</div>
-
-###
-
-<br clear="both">
+---
+[![](https://visitcount.itsvg.in/api?id=GeorgiGeorgiev-IT&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![snake gif](https://github.com/GeorgiGeorgiev-IT/GeorgiGeorgiev-IT/blob/output/github-snake-dark.svg)
 
-###
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
