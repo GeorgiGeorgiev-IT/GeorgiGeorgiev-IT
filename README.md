@@ -1,34 +1,35 @@
 # 💫 About Me:
 
 <span style="font-size: small;">  
-👋 Здравейте! Аз съм Георги Георгиев  
+👋 Hello! I'm Georgi Georgiev  
 <br><br>
 
-👨‍🎓 **За мен**  
-- На 21 години, студент по Информатика и компютърни науки в Икономическия университет - Варна.  
-- Завършил паралелка по Софтуерни и хардуерни науки.  
-- Страстен към програмирането и постоянното учене.  
+👨‍🎓 **About Me**  
+- 21 years old, a student of Informatics and Computer Science at the University of Economics - Varna.  
+- Graduated from a high school program specializing in Software and Hardware Sciences.  
+- Passionate about programming and continuous learning.  
 <br>
 
-💻 **Какво правя?**  
-- Участвам в курсове по програмиране всеки месец, за да подобрявам своите умения.  
-- Работя върху лични проекти през свободното си време и ги споделям тук, за да помогна на другите и да документирам своя напредък.  
-- Изследвам нови технологии и се стремя да изграждам качествени софтуерни решения.  
+💻 **What I Do**  
+- I participate in programming courses every month to improve my skills.  
+- I work on personal projects in my free time and share them here to help others and document my progress.  
+- I explore new technologies and aim to build high-quality software solutions.  
 <br>
 
-🎯 **Моите интереси**  
-- Занимавам се както с Frontend, така и с Backend разработка.  
-- Автоматизация на процеси и разработка на софтуер с реална стойност.  
-- Изследване на нови технологии и създаване на проекти, които съчетават различни аспекти на софтуерното инженерство.  
+🎯 **My Interests**  
+- I work on both Frontend and Backend development.  
+- Process automation and developing software with real value.  
+- Exploring new technologies and creating projects that combine various aspects of software engineering.  
 <br>
 
-📫 **Как да се свържете с мен?**  
+📫 **How to Contact Me**  
 - **Email:** [gmihaylovg@gmail.com](mailto:gmihaylovg@gmail.com)  
 - **Instagram:** [mihaylov960](https://instagram.com/mihaylov960)  
 <br>
 
-Не се колебай да разгледаш моите проекти и да оставиш коментар! 😊  
+Feel free to check out my projects and leave a comment! 😊  
 </span>
+
 
 
 
