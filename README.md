@@ -5,7 +5,7 @@ Hi there! 👋 I'm Georgi Georgiev
 👨‍🎓 About Me  
 - 21 years old, a Computer Science student at the University of Economics - Varna.
 - Graduated from a Software and Hardware Sciences school.  
-- Passionate about programming and continuous learning.  
+- Passionate about programming and continuous learning.
 
 💻 What I Do  
 - I take programming courses every month to improve my skills.  
